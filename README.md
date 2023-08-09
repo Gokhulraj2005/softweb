@@ -170,7 +170,6 @@ Publish the website in the given URL.
 ```
 
 ### people.html:
-
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -379,7 +378,6 @@ Publish the website in the given URL.
 </html>
 ```
 ### products.html:
-
 ```html
 <!DOCTYPE html>
 <html lang="en">
