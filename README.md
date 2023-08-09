@@ -26,7 +26,9 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
+
 ### home.html:
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -96,8 +98,9 @@ Publish the website in the given URL.
         </div>
     </body>
 </html>
-
+```
 ### contact.html:
+
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -164,8 +167,11 @@ Publish the website in the given URL.
         </div>
     </body>
 </html>
+```
 
 ### people.html:
+
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -371,9 +377,10 @@ Publish the website in the given URL.
         </div>
     </body>
 </html>
+```
 ### products.html:
 
-
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
@@ -578,6 +585,7 @@ Publish the website in the given URL.
         </div>
     </body>
 </html>
+```
 ## OUTPUT:
 
 ![output1](https://github.com/Gokhulraj2005/softweb/assets/138849253/cc8a3299-e19a-4ce7-a6cf-3888ab585e1a)
