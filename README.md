@@ -100,7 +100,7 @@ Publish the website in the given URL.
 </html>
 ```
 ### contact.html:
-
+```html
 <!DOCTYPE html>
 <html lang="en">
     <head>
